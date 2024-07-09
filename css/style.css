@@ -1,0 +1,227 @@
+// <weight>: Use a value from 100 to 900
+
+
+html, body {
+    font-family: "Montserrat", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    background-color: #ffffff;
+}
+
+
+.full-fluid {
+    padding: 0;
+    background-color: #ffffff;
+
+}
+
+.nav-link:hover {
+    color: #ff0000;
+}
+
+.active {
+    color: #ff0000 !important;
+    font-weight: 700;
+}
+
+.logo {
+    width: 100%;
+    height: auto;
+}
+
+
+.h1 {
+    color: #ff0000;
+    text-align: center;
+    font-size: 2.25rem;
+    font-weight: 700;
+}
+
+
+.h1-head {
+        padding-top: 2.5rem;
+    padding-bottom: 1rem;
+}
+
+
+.h1-head-two {
+        padding-top: 3rem;
+}
+
+.h3 {
+    text-align: center;
+    font-size: 1.25rem;
+    width: 80%;
+    margin: auto;
+}
+
+
+
+
+.card-holder{
+    padding: 2rem;
+    background-color: #ACFFFF;
+    margin-top: 4.5rem;
+}
+
+.card-holder-two{
+    padding: 4rem;
+    background-color: #ACFFFF;
+    margin-top: 2rem;
+}
+
+.h2-head {
+    width: 20rem;
+    text-align: center;
+    background-color: #ff0000;
+    border-radius: .5rem;
+    padding: .25rem 0rem;
+    font-size: 2rem;
+    font-weight: 700;
+    color: #ffffff;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.h2-mar-t {
+    margin-top: -3.5rem ;
+    margin-bottom: 2rem;
+}
+
+.card-body-color {
+    background-color: #005EFF;
+    text-align: center;
+    color: #ffffff;
+}
+
+.b-r {
+    border-radius: 1rem;
+    overflow: hidden;
+}
+
+.card-link:hover .card-t {
+    opacity: 1;
+}
+
+.card-t {
+    opacity: .9;
+}
+
+
+
+
+.section-two {
+    padding: 5rem 0;
+    margin-top: 3rem;
+    background-color: aqua;
+    background-image: url('../images/about-bg.jpg');
+     background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.h5 {
+    text-align: justify;
+    font-size: 1.25rem;
+}
+
+.h5-p {
+    padding: 0 4rem;
+    margin-top: 1rem;
+    color: #ffffff;
+}
+
+
+
+
+.section-three {
+    padding-top: 5rem;
+}
+
+.s-3-h5-p {
+    padding: 0 4rem;
+    margin-top: 1rem;
+}
+
+.logos-container {
+    padding: 0 4rem;
+}
+
+
+
+
+
+
+
+
+
+
+.section-four {
+    padding: 5rem 0;
+    margin-top: 3rem;
+    background-color: aqua;
+    background-image: url('../images/infra-bg.jpg');
+     background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.infra-text {
+    background-color: #ACFFFF;
+    margin: 2rem 0;
+    padding: 2rem 4rem;
+}
+
+
+
+
+.section-five {
+    padding-top: 5rem;
+}
+
+
+.icon-container {
+    padding: 1rem 4rem;
+    float: none;
+    clear: both;
+    display: block;
+}
+
+.icon {
+    width: 3rem;
+    height: auto;
+    float: left;
+}
+
+.icon-h5 {
+    padding-left: 1rem;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.map {
+    width: 100%;
+    height: 400px;
+    background-color: #ACFFFF;
+    padding: .2rem;
+}
+
+.map-container {
+        padding: 4rem 4rem;
+}
+
+
+
+
+
+.footer {
+    padding: .75rem;
+    background-color: #ACFFFF;
+}
+
+
+
+
+
+
